@@ -8,7 +8,7 @@ _pwd  = "你的授权码"
 _to   = "接收的邮箱"
 
 msg = MIMEText("Hello world!")
-msg["Subject"] = "测试"
+msg["Subject"] = "测试1"
 msg["From"]    = _user
 msg["To"]      = _to
 
